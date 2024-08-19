@@ -1,0 +1,13 @@
+.home-container{
+    display: flex;
+   flex-wrap: wrap;
+   margin-left: 40px;
+
+}
+.blog-title{
+    display: block;
+    font-weight: 600;
+    text-align: center;
+    font-size: 30px;
+    
+}

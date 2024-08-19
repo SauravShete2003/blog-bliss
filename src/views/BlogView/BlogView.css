@@ -1,0 +1,37 @@
+.blog-view-container{
+width: 500px;
+margin: 10px auto;
+text-align: center;
+background-color:white;
+padding: 15px;
+
+}
+.blog-author-avatar{
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    margin: 10px 5px;
+}
+.blog-author-name{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.blog-date{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+.blog-description{
+    font-weight: 600;
+
+}
+
+.founder-image{
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+}

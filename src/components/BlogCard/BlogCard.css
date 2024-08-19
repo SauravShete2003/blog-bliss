@@ -1,0 +1,30 @@
+.blog-card {
+    background-color: aliceblue;
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+  }
+  
+  .blog-card h1 {
+    font-size: 24px;
+    margin: 16px 0;
+  }
+  
+  .blog-card p {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .author-avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+  }
+  
